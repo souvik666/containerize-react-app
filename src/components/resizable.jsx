@@ -14,7 +14,7 @@ export function ResizableComponet() {
           style={{
             position: "relative",
             border: "solid 1px #ddd",
-            background: "#f0f0f0",
+            background: "blue",
             backgroundRepeat: "no-repeat",
             backgroundSize: "auto",
             backgroundImage: "url(https://picsum.photos/640/460)",
@@ -31,7 +31,7 @@ export function ResizableComponet() {
           style={{
             position: "relative",
             border: "solid 1px #ddd",
-            background: "#f0f0f0",
+            background: "green",
             backgroundImage: "url(https://picsum.photos/640/250)",
           }}
           defaultSize={{
@@ -46,7 +46,7 @@ export function ResizableComponet() {
           style={{
             position: "relative",
             border: "solid 1px #ddd",
-            background: "#f0f0f0",
+            background: "orange",
             backgroundImage: "url(https://picsum.photos/940/240)",
             objectFit: "fill",
           }}
